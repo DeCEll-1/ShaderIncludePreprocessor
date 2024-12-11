@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ShaderIncludePreprocessor": {
+      "commandName": "Project",
+      "commandLineArgs": "main.frag res.frag"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\DeCell\source\repos\ShaderIncludePreprocessor\ShaderIncludePreprocessor\obj\Debug\net8.0\ShaderIncludePreprocessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeCell\source\repos\ShaderIncludePreprocessor\ShaderIncludePreprocessor\obj\Debug\net8.0\ShaderIncludePreprocessor.AssemblyInfoInputs.cache
+C:\Users\DeCell\source\repos\ShaderIncludePreprocessor\ShaderIncludePreprocessor\obj\Debug\net8.0\ShaderIncludePreprocessor.AssemblyInfo.cs
+C:\Users\DeCell\source\repos\ShaderIncludePreprocessor\ShaderIncludePreprocessor\obj\Debug\net8.0\ShaderIncludePreprocessor.csproj.CoreCompileInputs.cache
+C:\Users\DeCell\source\repos\ShaderIncludePreprocessor\ShaderIncludePreprocessor\obj\Debug\net8.0\ShaderIncludePreprocessor.genruntimeconfig.cache
+C:\Users\DeCell\source\repos\ShaderIncludePreprocessor\ShaderIncludePreprocessor\bin\Debug\net8.0\ShaderInclude.exe
+C:\Users\DeCell\source\repos\ShaderIncludePreprocessor\ShaderIncludePreprocessor\bin\Debug\net8.0\ShaderInclude.deps.json
+C:\Users\DeCell\source\repos\ShaderIncludePreprocessor\ShaderIncludePreprocessor\bin\Debug\net8.0\ShaderInclude.runtimeconfig.json
+C:\Users\DeCell\source\repos\ShaderIncludePreprocessor\ShaderIncludePreprocessor\bin\Debug\net8.0\ShaderInclude.dll
+C:\Users\DeCell\source\repos\ShaderIncludePreprocessor\ShaderIncludePreprocessor\bin\Debug\net8.0\ShaderInclude.pdb
+C:\Users\DeCell\source\repos\ShaderIncludePreprocessor\ShaderIncludePreprocessor\obj\Debug\net8.0\ShaderInclude.dll
+C:\Users\DeCell\source\repos\ShaderIncludePreprocessor\ShaderIncludePreprocessor\obj\Debug\net8.0\refint\ShaderInclude.dll
+C:\Users\DeCell\source\repos\ShaderIncludePreprocessor\ShaderIncludePreprocessor\obj\Debug\net8.0\ShaderInclude.pdb
+C:\Users\DeCell\source\repos\ShaderIncludePreprocessor\ShaderIncludePreprocessor\obj\Debug\net8.0\ref\ShaderInclude.dll
